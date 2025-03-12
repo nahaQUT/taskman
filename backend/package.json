@@ -27,6 +27,5 @@
     "sinon": "^19.0.2"
   },
   "author": "Task Manager Team",
-  "license": "ISC",
-  "test": "mocha"
+  "license": "ISC"
 }
